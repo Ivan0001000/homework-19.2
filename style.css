@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    padding: 20px;
+}
+
+.banner {
+    width: 60%;
+    height: auto;
+}
+
+.navbar {
+    margin: 20px 0;
+}
+
+button {
+    background-color: #00bfff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #007fff;
+}
+
+button:active {
+    background-color: #4000ff;
+}
+
+.content {
+    margin: 20px auto;
+    width: 80%;
+    text-align: left;
+}
+
+.entity {
+    background-color: #f0f0f0;
+    color: black;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.pagination {
+    margin: 20px;
+}
+
+.pagination button {
+    background-color: #00bfff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.pagination button:hover {
+    background-color: #007fff;
+}
